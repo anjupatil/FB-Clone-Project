@@ -1,2 +1,2 @@
 # FB-Clone-Project
-FB 
+FB clone using Tailwind CSS
